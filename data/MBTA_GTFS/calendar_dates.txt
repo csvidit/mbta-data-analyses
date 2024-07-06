@@ -1,0 +1,70 @@
+service_id,date,exception_type,holiday_name
+BUS32024-hbl34sn1-Weekday-02,20240627,1,
+BUS32024-hbs34nt1-Weekday-02,20240627,1,
+SPRING2024-SOUTHWKD-Weekday-1-Scbbf1ea5,20240627,1,
+BUS32024-hbl34sn1-Weekday-02,20240628,1,
+BUS32024-hbs34nt1-Weekday-02,20240628,1,
+BUS32024-hbl34sn1-Weekday-02,20240701,1,
+BUS32024-hbs34nt1-Weekday-02,20240701,1,
+BUS32024-hbl34sn1-Weekday-02,20240702,1,
+BUS32024-hbs34nt1-Weekday-02,20240702,1,
+BUS32024-hbl34sn1-Weekday-02,20240703,1,
+BUS32024-hbs34nt1-Weekday-02,20240703,1,
+SPRING2024-SOUTHWKD-Weekday-1-5-S49,20240703,1,
+BUS32024-hba34ns1-Weekday-02,20240704,2,Independence Day
+BUS32024-hbb34j47-Sunday-02,20240704,1,Independence Day
+BUS32024-hbb34ns1-Weekday-02,20240704,2,Independence Day
+BUS32024-hbc34j47-Sunday-02,20240704,1,Independence Day
+BUS32024-hbc34ns1-Weekday-02,20240704,2,Independence Day
+BUS32024-hbf34ns1-Weekday-02,20240704,2,Independence Day
+BUS32024-hbg34j47-Sunday-02,20240704,1,Independence Day
+BUS32024-hbg34ns1-Weekday-02,20240704,2,Independence Day
+BUS32024-hbl34j47-Sunday-02,20240704,1,Independence Day
+BUS32024-hbq34j47-Sunday-02,20240704,1,Independence Day
+BUS32024-hbq34ns1-Weekday-02,20240704,2,Independence Day
+BUS32024-hbs34j47-Sunday-02,20240704,1,Independence Day
+BUS32024-hbt34j47-Sunday-02,20240704,1,Independence Day
+BUS32024-hbt34ns1-Weekday-02,20240704,2,Independence Day
+Boat-EastBoston-Saturday-Summer-24,20240704,1,Independence Day
+Boat-F1-Saturday-Summer-24,20240704,1,Independence Day
+Boat-F4-Saturday-Summer-24,20240704,1,Independence Day
+Boat-Lynn-Saturday-Summer-24,20240704,1,Independence Day
+IndependenceDay,20240704,1,Independence Day
+LRV32024-hlb34011-Weekday-01,20240704,2,Independence Day
+LRV32024-hlb34j41-Weekday-01,20240704,1,Independence Day
+LRV32024-hlm34011-Weekday-01,20240704,2,Independence Day
+LRV32024-hlm34j41-Weekday-01,20240704,1,Independence Day
+PRIV22024-hpa24011-Weekday-01,20240704,2,Independence Day
+PRIV22024-hpj24011-Weekday-01,20240704,2,Independence Day
+PRIV32024-hpp34hl7-Sunday-01,20240704,1,Independence Day
+PRIV32024-hpp34ns1-Weekday-01,20240704,2,Independence Day
+RTL32024-hmb34011-Weekday-01,20240704,2,Independence Day
+RTL32024-hmb34j41-Weekday-01,20240704,1,Independence Day
+RTL32024-hmo34011-Weekday-01,20240704,2,Independence Day
+RTL32024-hmo34j41-Weekday-01,20240704,1,Independence Day
+RTL32024-hms34011-Weekday-01,20240704,2,Independence Day
+RTL32024-hms34j41-Weekday-01,20240704,1,Independence Day
+SPRING2024-NORTHWKD-Weekday-5,20240704,2,Independence Day
+SPRING2024-NORTHWKD-Weekday-5-S7d8482ee,20240704,2,Independence Day
+SPRING2024-NORTHWKD-Weekday-5-S9d378dcf,20240704,2,Independence Day
+SPRING2024-NORTHWKD-Weekday-9-S6561ad1d,20240704,2,Independence Day
+SPRING2024-SOUTHWKD-Weekday-1,20240704,2,Independence Day
+SPRING2024-SOUTHWKD-Weekday-1-S85407dc6,20240704,2,Independence Day
+SPRING2024-SOUTHWKD-Weekday-1-S859962ef,20240704,2,Independence Day
+SPRING2024-SOUTHWKD-Weekday-1-Sb7371956,20240704,2,Independence Day
+SPRING2024-SOUTHWKD-Weekday-1-Sc9a3b080,20240704,2,Independence Day
+SPRING2024-SOUTHWKD-Weekday-1-Scbbf1ea5,20240704,2,Independence Day
+SummerWeekday,20240704,2,Independence Day
+fare_independence_day,20240704,1,Independence Day
+BUS32024-hbs34nt1-Weekday-02,20240705,1,
+PRIV22024-hpj24017-Sunday-01,20240714,1,
+SPRING2024-NORTHWKD-Weekday-5,20240715,2,
+SPRING2024-NORTHWKD-Weekday-5,20240716,2,
+SPRING2024-NORTHWKD-Weekday-5,20240717,2,
+SPRING2024-NORTHWKD-Weekday-5,20240718,2,
+SPRING2024-NORTHWKD-Weekday-5,20240719,2,
+SPRING2024-NORTHWKD-Weekday-5,20240722,2,
+SPRING2024-NORTHWKD-Weekday-5,20240723,2,
+SPRING2024-NORTHWKD-Weekday-5,20240724,2,
+SPRING2024-NORTHWKD-Weekday-5,20240725,2,
+SPRING2024-NORTHWKD-Weekday-5,20240726,2,

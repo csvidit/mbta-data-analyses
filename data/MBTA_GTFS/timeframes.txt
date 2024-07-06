@@ -1,0 +1,12 @@
+timeframe_group_id,start_time,end_time,service_id
+timeframe_regular,,,fare_regular
+timeframe_regular,00:00:00,21:30:00,fare_independence_day
+timeframe_systemwide_free,21:30:00,24:00:00,fare_independence_day
+timeframe_systemwide_free,00:00:00,02:30:00,fare_sumner_tunnel_closure_independence
+timeframe_sumner_tunnel_closure,02:30:00,24:00:00,fare_sumner_tunnel_closure_independence
+timeframe_sumner_tunnel_closure,,,fare_sumner_tunnel_closure
+timeframe_sumner_tunnel_closure,00:00:00,02:30:00,fare_sumner_tunnel_closure_transition
+timeframe_regular,02:30:00,24:00:00,fare_sumner_tunnel_closure_transition
+timeframe_alewife_kendall_surge,02:30:00,24:00:00,fare_alewife_kendall_surge_begin
+timeframe_alewife_kendall_surge,,,fare_alewife_kendall_surge
+timeframe_alewife_kendall_surge,00:00:00,02:30:00,fare_alewife_kendall_surge_end
